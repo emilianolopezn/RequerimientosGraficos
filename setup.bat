@@ -1,0 +1,1 @@
+C:\Users\alumno.USN\AppData\Local\Programs\Python\Python311\Scripts\pip install pyopengl glfw
